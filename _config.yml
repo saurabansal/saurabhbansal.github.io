@@ -1,1 +1,15 @@
+title: Saurabh Bansal
+description: Academic researcher and Chief of Staff, Finance & Business, Penn State University
+theme: minima
 
+author:
+  name: Saurabh Bansal
+  email: your_psu_email@psu.edu
+
+header_pages:
+  - index.md
+  - about.md
+  - research.md
+  - leadership.md
+  - cv.md
+  - contact.md
