@@ -1,1 +1,3 @@
-
+I am an academic researcher and university administrator committed to applying analytical rigor to institutional decision‑making. My academic work focuses on incentives, forecasting, and operational decision processes, with particular attention to how expert judgment and organizational structures influence outcomes.
+Alongside my academic career, I serve as Chief of Staff for Finance and Business at Penn State University. In this role, I collaborate closely with senior leadership on strategic initiatives related to budgeting, financial planning, analytics, and organizational coordination. My research background informs my administrative approach, emphasizing data‑driven decision‑making, transparency, and long‑term institutional capacity.
+My work sits at the intersection of research and practice, reflecting a broader interest in how universities can better design systems, policies, and governance structures that align incentives with mission‑driven outcomes.
